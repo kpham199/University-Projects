@@ -1,2 +1,1 @@
-# Projects
-Projects
+A collection of coursework and programming assignments from my Computer Science studies at the University of Illinois Chicago. This portfolio documents my development as a software developer, showcasing the skills and concepts I've gained throughout my academic career.
